@@ -30,3 +30,5 @@ Tarkastelin käännetyn ohjelman binääriä ```objcopy```-komennolla. Muunsin o
 *Kuva 4. Ohjelman muuntaminen Intel HEX -muotoon ```objcopy```-komennolla ja muodostetun ```main.hex```-tiedoston tarkastelu.*
 
 Tulosteessa näkyy ohjelman sisältämä data Intel HEX -muodossa. Tämä havainnollistaa, miten C-kielisestä lähdekoodista käännetty ohjelma on muutettu koneen käsiteltävään muotoon. 
+
+## Lähteet
