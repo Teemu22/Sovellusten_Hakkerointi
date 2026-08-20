@@ -32,3 +32,6 @@ Tarkastelin käännetyn ohjelman binääriä ```objcopy```-komennolla. Muunsin o
 Tulosteessa näkyy ohjelman sisältämä data Intel HEX -muodossa. Tämä havainnollistaa, miten C-kielisestä lähdekoodista käännetty ohjelma on muutettu koneen käsiteltävään muotoon. 
 
 ## Lähteet
+Tero Karvinen - Sovellusten hakkerointi: https://terokarvinen.com/application-hacking/#kertauspaketti Luettu: 20.8.2026
+Create a Web Page Using Github: https://terokarvinen.com/2023/create-a-web-page-using-github/ Luettu: 20.8.2026
+Tekoälyä (ChatGPT) on käytetty tehtävien ymmärtämisessä ja komentojen selittämisessä. Kaikki tehtävät on kuitenkin tehty itse ja testattu käytännössä.
