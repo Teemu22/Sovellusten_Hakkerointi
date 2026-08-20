@@ -20,3 +20,9 @@ Suoritin käännetyn ohjelman komennolla ```./h0```. Tämän jälkeen ohjelma tu
 <img width="509" height="142" alt="image" src="https://github.com/user-attachments/assets/8cfc3602-f747-4eb6-a16a-e9cd5570e903" />
 
 *Kuva 3. Käännetyn ohjelman suorittaminen ja "Hello world" -tuloste.*
+
+## Binäärin analysointi
+
+Tarkastelin käännetyn ohjelman binääriä ```objcopy```-komennolla. Muunsin ohjelman Intel HEX-muotoon komennolla ```objcopy -O ihex h0 main.hex```. Tämän jälkeen katsoin ```main.hex```-tiedostoa ```cat main.hex```-komennolla.
+
+Tulosteessa näkyy ohjelman sisältämä data Intel HEX -muodossa. Tämä havainnollistaa, miten C-kielisestä lähdekoodista käännetty ohjelma on muutettu koneen käsiteltävään muotoon. 
