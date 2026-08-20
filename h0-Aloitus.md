@@ -4,6 +4,7 @@
 Tein Hello world harjoitukset C kielellä testi.c nimiseen tiedostoon. 
  
  <img width="340" height="199" alt="image" src="https://github.com/user-attachments/assets/d7ddd7c7-be06-4137-b79e-c8dae80c620d" /> 
+
 *Kuva 1. Hello World -ohjelman lähdekoodi C-kielellä.*
 
 ## Kääntäminen
